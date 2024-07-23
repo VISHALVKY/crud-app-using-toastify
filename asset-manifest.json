@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crud-app-using-toastify/static/css/main.eee8217b.css",
+    "main.js": "/crud-app-using-toastify/static/js/main.1caf6234.js",
+    "static/js/787.a94a4c69.chunk.js": "/crud-app-using-toastify/static/js/787.a94a4c69.chunk.js",
+    "index.html": "/crud-app-using-toastify/index.html",
+    "main.eee8217b.css.map": "/crud-app-using-toastify/static/css/main.eee8217b.css.map",
+    "main.1caf6234.js.map": "/crud-app-using-toastify/static/js/main.1caf6234.js.map",
+    "787.a94a4c69.chunk.js.map": "/crud-app-using-toastify/static/js/787.a94a4c69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee8217b.css",
+    "static/js/main.1caf6234.js"
+  ]
+}
